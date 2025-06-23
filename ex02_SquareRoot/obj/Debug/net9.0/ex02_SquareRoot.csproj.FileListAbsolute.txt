@@ -13,3 +13,18 @@ C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex02_SquareRoot\obj\Debug
 C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex02_SquareRoot\obj\Debug\net9.0\ex02_SquareRoot.pdb
 C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex02_SquareRoot\obj\Debug\net9.0\ex02_SquareRoot.genruntimeconfig.cache
 C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex02_SquareRoot\obj\Debug\net9.0\ref\ex02_SquareRoot.dll
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.4\ex02_SquareRoot\bin\Debug\net9.0\ex02_SquareRoot.exe
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.4\ex02_SquareRoot\bin\Debug\net9.0\ex02_SquareRoot.deps.json
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.4\ex02_SquareRoot\bin\Debug\net9.0\ex02_SquareRoot.runtimeconfig.json
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.4\ex02_SquareRoot\bin\Debug\net9.0\ex02_SquareRoot.dll
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.4\ex02_SquareRoot\bin\Debug\net9.0\ex02_SquareRoot.pdb
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.4\ex02_SquareRoot\obj\Debug\net9.0\ex02_SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.4\ex02_SquareRoot\obj\Debug\net9.0\ex02_SquareRoot.AssemblyInfoInputs.cache
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.4\ex02_SquareRoot\obj\Debug\net9.0\ex02_SquareRoot.AssemblyInfo.cs
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.4\ex02_SquareRoot\obj\Debug\net9.0\ex02_SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.4\ex02_SquareRoot\obj\Debug\net9.0\ex02_SquareRoot.sourcelink.json
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.4\ex02_SquareRoot\obj\Debug\net9.0\ex02_SquareRoot.dll
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.4\ex02_SquareRoot\obj\Debug\net9.0\refint\ex02_SquareRoot.dll
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.4\ex02_SquareRoot\obj\Debug\net9.0\ex02_SquareRoot.pdb
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.4\ex02_SquareRoot\obj\Debug\net9.0\ex02_SquareRoot.genruntimeconfig.cache
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.4\ex02_SquareRoot\obj\Debug\net9.0\ref\ex02_SquareRoot.dll

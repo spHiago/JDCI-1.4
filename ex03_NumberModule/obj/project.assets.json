@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HiagoFranco\\Desktop\\Assembly\\JDCI-1.4\\ex02_SquareRoot\\ex02_SquareRoot.csproj",
-      "projectName": "ex02_SquareRoot",
-      "projectPath": "C:\\Users\\HiagoFranco\\Desktop\\Assembly\\JDCI-1.4\\ex02_SquareRoot\\ex02_SquareRoot.csproj",
+      "projectUniqueName": "C:\\Users\\HiagoFranco\\Desktop\\Assembly\\JDCI-1.4\\ex03_NumberModule\\ex03_NumberModule.csproj",
+      "projectName": "ex03_NumberModule",
+      "projectPath": "C:\\Users\\HiagoFranco\\Desktop\\Assembly\\JDCI-1.4\\ex03_NumberModule\\ex03_NumberModule.csproj",
       "packagesPath": "C:\\Users\\HiagoFranco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HiagoFranco\\Desktop\\Assembly\\JDCI-1.4\\ex02_SquareRoot\\obj\\",
+      "outputPath": "C:\\Users\\HiagoFranco\\Desktop\\Assembly\\JDCI-1.4\\ex03_NumberModule\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
