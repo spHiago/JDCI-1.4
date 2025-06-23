@@ -1,0 +1,14 @@
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex01_OperatorMethods\bin\Debug\net9.0\ex01_OperatorMethods.exe
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex01_OperatorMethods\bin\Debug\net9.0\ex01_OperatorMethods.deps.json
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex01_OperatorMethods\bin\Debug\net9.0\ex01_OperatorMethods.runtimeconfig.json
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex01_OperatorMethods\bin\Debug\net9.0\ex01_OperatorMethods.dll
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex01_OperatorMethods\bin\Debug\net9.0\ex01_OperatorMethods.pdb
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex01_OperatorMethods\obj\Debug\net9.0\ex01_OperatorMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex01_OperatorMethods\obj\Debug\net9.0\ex01_OperatorMethods.AssemblyInfoInputs.cache
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex01_OperatorMethods\obj\Debug\net9.0\ex01_OperatorMethods.AssemblyInfo.cs
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex01_OperatorMethods\obj\Debug\net9.0\ex01_OperatorMethods.csproj.CoreCompileInputs.cache
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex01_OperatorMethods\obj\Debug\net9.0\ex01_OperatorMethods.dll
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex01_OperatorMethods\obj\Debug\net9.0\refint\ex01_OperatorMethods.dll
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex01_OperatorMethods\obj\Debug\net9.0\ex01_OperatorMethods.pdb
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex01_OperatorMethods\obj\Debug\net9.0\ex01_OperatorMethods.genruntimeconfig.cache
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex01_OperatorMethods\obj\Debug\net9.0\ref\ex01_OperatorMethods.dll
