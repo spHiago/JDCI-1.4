@@ -1,0 +1,15 @@
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex03_NumberModule\bin\Debug\net9.0\ex03_NumberModule.exe
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex03_NumberModule\bin\Debug\net9.0\ex03_NumberModule.deps.json
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex03_NumberModule\bin\Debug\net9.0\ex03_NumberModule.runtimeconfig.json
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex03_NumberModule\bin\Debug\net9.0\ex03_NumberModule.dll
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex03_NumberModule\bin\Debug\net9.0\ex03_NumberModule.pdb
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex03_NumberModule\obj\Debug\net9.0\ex03_NumberModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex03_NumberModule\obj\Debug\net9.0\ex03_NumberModule.AssemblyInfoInputs.cache
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex03_NumberModule\obj\Debug\net9.0\ex03_NumberModule.AssemblyInfo.cs
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex03_NumberModule\obj\Debug\net9.0\ex03_NumberModule.csproj.CoreCompileInputs.cache
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex03_NumberModule\obj\Debug\net9.0\ex03_NumberModule.sourcelink.json
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex03_NumberModule\obj\Debug\net9.0\ex03_NumberModule.dll
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex03_NumberModule\obj\Debug\net9.0\refint\ex03_NumberModule.dll
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex03_NumberModule\obj\Debug\net9.0\ex03_NumberModule.pdb
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex03_NumberModule\obj\Debug\net9.0\ex03_NumberModule.genruntimeconfig.cache
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex03_NumberModule\obj\Debug\net9.0\ref\ex03_NumberModule.dll

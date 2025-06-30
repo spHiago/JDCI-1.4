@@ -11,9 +11,16 @@ namespace NumberModule
         {
             Console.WriteLine("Please, tell me a number and i´ll return you if your number is even or odd:");
             double number = Convert.ToDouble(Console.ReadLine());
-            double result = number % 2;
-            if(result == 0)
-                Console.WriteLine
+            NumberModule(number);
+
+        }
+        static double NumberModule(double number)
+        {
+            if (number % 2 == 0)
+                Console.WriteLine("Your number is even");
+            else
+                Console.WriteLine("Your number is odd");
+            return number;
         }
     }
 }
