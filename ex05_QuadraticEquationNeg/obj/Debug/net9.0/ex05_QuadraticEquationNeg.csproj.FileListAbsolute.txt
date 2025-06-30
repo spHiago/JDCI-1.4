@@ -1,0 +1,15 @@
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex05_QuadraticEquationNeg\bin\Debug\net9.0\ex05_QuadraticEquationNeg.exe
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex05_QuadraticEquationNeg\bin\Debug\net9.0\ex05_QuadraticEquationNeg.deps.json
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex05_QuadraticEquationNeg\bin\Debug\net9.0\ex05_QuadraticEquationNeg.runtimeconfig.json
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex05_QuadraticEquationNeg\bin\Debug\net9.0\ex05_QuadraticEquationNeg.dll
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex05_QuadraticEquationNeg\bin\Debug\net9.0\ex05_QuadraticEquationNeg.pdb
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex05_QuadraticEquationNeg\obj\Debug\net9.0\ex05_QuadraticEquationNeg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex05_QuadraticEquationNeg\obj\Debug\net9.0\ex05_QuadraticEquationNeg.AssemblyInfoInputs.cache
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex05_QuadraticEquationNeg\obj\Debug\net9.0\ex05_QuadraticEquationNeg.AssemblyInfo.cs
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex05_QuadraticEquationNeg\obj\Debug\net9.0\ex05_QuadraticEquationNeg.csproj.CoreCompileInputs.cache
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex05_QuadraticEquationNeg\obj\Debug\net9.0\ex05_QuadraticEquationNeg.sourcelink.json
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex05_QuadraticEquationNeg\obj\Debug\net9.0\ex05_QuadraticEquationNeg.dll
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex05_QuadraticEquationNeg\obj\Debug\net9.0\refint\ex05_QuadraticEquationNeg.dll
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex05_QuadraticEquationNeg\obj\Debug\net9.0\ex05_QuadraticEquationNeg.pdb
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex05_QuadraticEquationNeg\obj\Debug\net9.0\ex05_QuadraticEquationNeg.genruntimeconfig.cache
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex05_QuadraticEquationNeg\obj\Debug\net9.0\ref\ex05_QuadraticEquationNeg.dll

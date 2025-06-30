@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ex05_QuadraticEquationNeg/1.0.0": {
+        "runtime": {
+          "ex05_QuadraticEquationNeg.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex05_QuadraticEquationNeg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

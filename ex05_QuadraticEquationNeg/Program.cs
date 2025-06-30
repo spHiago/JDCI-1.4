@@ -1,9 +1,9 @@
-﻿/*4. Create a method named “QuadraticEquationPos” that receives three inputs and
-returns the positive value option of the quadratic equation;*/
+﻿/*4. Create a method named “QuadraticEquationPNeg” that receives three inputs and
+returns the negative value option of the quadratic equation;*/
 
 using System;
 
-namespace QuadraticEquationPos
+namespace QuadraticEquationPNeg
 {
     class Program
     {
@@ -16,14 +16,15 @@ namespace QuadraticEquationPos
             double b = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("The value of (c):");
             double c = Convert.ToDouble(Console.ReadLine());
-            QuadraticEquationPos(a, b, c);
-            Console.WriteLine($"O valor da sua raiz positiva é {QuadraticEquationPos(a, b, c)}.");
+            QuadraticEquationNeg(a, b, c);
+            Console.WriteLine($"O valor da sua raiz negativa é {QuadraticEquationNeg(a, b, c)}.");
         }
-        static double QuadraticEquationPos(double a, double b, double c)
+        static double QuadraticEquationNeg(double a, double b, double c)
         {
             double delta = (b * b) - 4 * a * c;
-            double x1 = (-(b) + Math.Sqrt(delta)) / 2 * a;
-            return x1;
+
+            double x2 = (-(b) - Math.Sqrt(delta)) / 2 * a;
+            return x2;
         }
     }
 }
