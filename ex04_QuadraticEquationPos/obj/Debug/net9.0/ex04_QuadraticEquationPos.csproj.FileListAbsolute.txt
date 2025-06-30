@@ -1,0 +1,15 @@
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex04_QuadraticEquationPos\obj\Debug\net9.0\ex04_QuadraticEquationPos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex04_QuadraticEquationPos\obj\Debug\net9.0\ex04_QuadraticEquationPos.AssemblyInfoInputs.cache
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex04_QuadraticEquationPos\obj\Debug\net9.0\ex04_QuadraticEquationPos.AssemblyInfo.cs
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex04_QuadraticEquationPos\obj\Debug\net9.0\ex04_QuadraticEquationPos.csproj.CoreCompileInputs.cache
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex04_QuadraticEquationPos\obj\Debug\net9.0\ex04_QuadraticEquationPos.sourcelink.json
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex04_QuadraticEquationPos\bin\Debug\net9.0\ex04_QuadraticEquationPos.exe
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex04_QuadraticEquationPos\bin\Debug\net9.0\ex04_QuadraticEquationPos.deps.json
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex04_QuadraticEquationPos\bin\Debug\net9.0\ex04_QuadraticEquationPos.runtimeconfig.json
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex04_QuadraticEquationPos\bin\Debug\net9.0\ex04_QuadraticEquationPos.dll
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex04_QuadraticEquationPos\bin\Debug\net9.0\ex04_QuadraticEquationPos.pdb
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex04_QuadraticEquationPos\obj\Debug\net9.0\ex04_QuadraticEquationPos.dll
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex04_QuadraticEquationPos\obj\Debug\net9.0\refint\ex04_QuadraticEquationPos.dll
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex04_QuadraticEquationPos\obj\Debug\net9.0\ex04_QuadraticEquationPos.pdb
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex04_QuadraticEquationPos\obj\Debug\net9.0\ex04_QuadraticEquationPos.genruntimeconfig.cache
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.4\ex04_QuadraticEquationPos\obj\Debug\net9.0\ref\ex04_QuadraticEquationPos.dll
