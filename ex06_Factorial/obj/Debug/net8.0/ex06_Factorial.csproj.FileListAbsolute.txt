@@ -1,0 +1,15 @@
+C:\Users\HiagoFranco\Desktop\Assembly Hiago\JDCI-1.4\ex06_Factorial\obj\Debug\net8.0\ex06_Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HiagoFranco\Desktop\Assembly Hiago\JDCI-1.4\ex06_Factorial\obj\Debug\net8.0\ex06_Factorial.AssemblyInfoInputs.cache
+C:\Users\HiagoFranco\Desktop\Assembly Hiago\JDCI-1.4\ex06_Factorial\obj\Debug\net8.0\ex06_Factorial.AssemblyInfo.cs
+C:\Users\HiagoFranco\Desktop\Assembly Hiago\JDCI-1.4\ex06_Factorial\obj\Debug\net8.0\ex06_Factorial.csproj.CoreCompileInputs.cache
+C:\Users\HiagoFranco\Desktop\Assembly Hiago\JDCI-1.4\ex06_Factorial\obj\Debug\net8.0\ex06_Factorial.sourcelink.json
+C:\Users\HiagoFranco\Desktop\Assembly Hiago\JDCI-1.4\ex06_Factorial\bin\Debug\net8.0\ex06_Factorial.exe
+C:\Users\HiagoFranco\Desktop\Assembly Hiago\JDCI-1.4\ex06_Factorial\bin\Debug\net8.0\ex06_Factorial.deps.json
+C:\Users\HiagoFranco\Desktop\Assembly Hiago\JDCI-1.4\ex06_Factorial\bin\Debug\net8.0\ex06_Factorial.runtimeconfig.json
+C:\Users\HiagoFranco\Desktop\Assembly Hiago\JDCI-1.4\ex06_Factorial\bin\Debug\net8.0\ex06_Factorial.dll
+C:\Users\HiagoFranco\Desktop\Assembly Hiago\JDCI-1.4\ex06_Factorial\bin\Debug\net8.0\ex06_Factorial.pdb
+C:\Users\HiagoFranco\Desktop\Assembly Hiago\JDCI-1.4\ex06_Factorial\obj\Debug\net8.0\ex06_Factorial.dll
+C:\Users\HiagoFranco\Desktop\Assembly Hiago\JDCI-1.4\ex06_Factorial\obj\Debug\net8.0\refint\ex06_Factorial.dll
+C:\Users\HiagoFranco\Desktop\Assembly Hiago\JDCI-1.4\ex06_Factorial\obj\Debug\net8.0\ex06_Factorial.pdb
+C:\Users\HiagoFranco\Desktop\Assembly Hiago\JDCI-1.4\ex06_Factorial\obj\Debug\net8.0\ex06_Factorial.genruntimeconfig.cache
+C:\Users\HiagoFranco\Desktop\Assembly Hiago\JDCI-1.4\ex06_Factorial\obj\Debug\net8.0\ref\ex06_Factorial.dll
